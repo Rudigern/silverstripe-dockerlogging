@@ -1,5 +1,5 @@
 {
-    "name": "madecurious/silverstripe-dockerlogging",
+    "name": "rudigern/silverstripe-dockerlogging",
     "description": "Configure Silverstripe to log to stdout/stderr for use in docker-based deployments",
     "type": "silverstripe-vendormodule",
     "keywords": [
